@@ -1,7 +1,7 @@
 # Applied Data Science Capstone
 
-Project Scenario and Overview
-Background
+### Project Scenario and Overview ###
+#### Background
 The dawn of the commercial space age has brought space travel to the forefront of technological advancements, making it more accessible than ever. Companies like Virgin Galactic, Rocket Lab, and Blue Origin are pushing the boundaries by providing suborbital flights, deploying small satellites, and developing reusable rockets. Among these innovators, SpaceX stands out with its significant achievements, which include:
 
 Regular shipments to the International Space Station.
